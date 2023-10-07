@@ -1,2 +1,2 @@
 # learner
-This is only for education purpose
+This is only for education purpose.
